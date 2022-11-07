@@ -1,0 +1,24 @@
+.payment_box.payment_method_custom .form-row-last {
+    float: unset;
+}
+.payment_box.payment_method_custom .form-row-last input{
+    width:100%; 
+}
+.payment_box.payment_method_custom  .form-row-first, .payment_box.payment_method_custom .form-row-last, .payment_box.payment_method_custom .form-row-first, .payment_box.payment_method_custom .form-row-last {
+    width: 100%;
+}
+.payment_box.payment_method_custom  p.form-row.form-row-first input {
+    width: 48%;
+    display: inline-block;
+    margin: 0 !important;
+}
+.payment_box p.form-row.form-row-wide input {
+    width: 100%;
+}
+
+#custom_input_pay_phone {
+    display: none;
+}
+.woocommerce-checkout .text-danger {
+  color: #ff0909;
+}
